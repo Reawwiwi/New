@@ -6,6 +6,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
+import rtc.kanyanat.chetsada.easyconvert.R;
+
 /**
  * Created by masterUNG on 12/4/2016 AD.
  */

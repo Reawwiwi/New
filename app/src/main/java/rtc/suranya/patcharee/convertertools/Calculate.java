@@ -13,6 +13,8 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import rtc.kanyanat.chetsada.easyconvert.R;
+
 public class Calculate extends AppCompatActivity implements View.OnClickListener {
 
     // Explicit
@@ -38,7 +40,6 @@ public class Calculate extends AppCompatActivity implements View.OnClickListener
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_calculate);
-
         myConstant = new MyConstant();
         titleStrings = myConstant.getTitleStrings();
 

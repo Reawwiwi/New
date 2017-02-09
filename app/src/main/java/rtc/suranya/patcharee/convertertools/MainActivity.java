@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 
+import rtc.kanyanat.chetsada.easyconvert.R;
+
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
 
